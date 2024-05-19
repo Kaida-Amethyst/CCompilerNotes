@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  @font-face {
+    font-family: 'CaskaydiaMonoNerd';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url('/fonts/CaskaydiaMonoNerd-Regular.ttf') format('ttf');
+  }
+}

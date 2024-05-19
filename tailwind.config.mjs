@@ -12,6 +12,10 @@ export default {
 	theme: {
 		extend: {
 			colors: { accent, gray },
+			fontFamily: {
+				sans: ['"Inter"'],
+				mono: ['"CaskaydiaMonoNerd"'],
+			},
 		},
 	},
 	plugins: [starlightPlugin()],
