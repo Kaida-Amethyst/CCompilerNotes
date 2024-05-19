@@ -13,7 +13,7 @@ export default defineConfig({
         './src/tailwind.css',
       ],
       social: {
-        github: 'https://ziyue.cafe'
+        github: 'https://github.com/Kaida-Amethyst/CCompilerNotes',
       },
       sidebar: [
         {
