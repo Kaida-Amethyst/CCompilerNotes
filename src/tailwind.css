@@ -6,8 +6,8 @@
   @font-face {
     font-family: 'CaskaydiaMonoNerd';
     font-style: normal;
-    font-weight: 900;
+    font-weight: normal;
     font-display: swap;
-    src: url('/fonts/CaskaydiaMonoNerd-Regular.ttf') format('ttf');
+    src: url('./fonts/CaskaydiaMonoNerd/CaskaydiaMonoNerdFont-Regular.ttf') format('ttf');
   }
 }
