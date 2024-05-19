@@ -12,7 +12,7 @@ export default {
 		extend: {
 			colors: { accent, gray },
 			fontFamily: {
-				sans: ['"Inter"'],
+				sans: ['"CaskaydiaMonoNerd"'],
 				mono: ['"CaskaydiaMonoNerd"'],
 			},
 		},
